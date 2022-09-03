@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPI23.dll"</Assembly>
+		<AddInId>722F7997-4399-4226-B3A2-2CC38229ED0A</AddInId>
+		<FullClassName>RevitAPI23.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Кол-во коллон</Text>
+	</AddIn>
+</RevitAddIns>
